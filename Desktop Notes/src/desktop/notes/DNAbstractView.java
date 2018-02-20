@@ -10,7 +10,6 @@ import javax.swing.JDialog;
 /**
  * Abstract View for all child views
  *
- *
  * @author John
  *
  */
